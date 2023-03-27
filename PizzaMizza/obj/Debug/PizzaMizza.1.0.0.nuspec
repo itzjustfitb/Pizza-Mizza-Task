@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>PizzaMizza</id>
+    <version>1.0.0</version>
+    <authors>PizzaMizza</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net6.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\user\source\repos\PizzaMizza\PizzaMizza\bin\Debug\net6.0\PizzaMizza.runtimeconfig.json" target="lib\net6.0\PizzaMizza.runtimeconfig.json" />
+    <file src="C:\Users\user\source\repos\PizzaMizza\PizzaMizza\bin\Debug\net6.0\PizzaMizza.dll" target="lib\net6.0\PizzaMizza.dll" />
+  </files>
+</package>
